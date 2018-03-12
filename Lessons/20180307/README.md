@@ -1,1 +1,0 @@
-# UPD client with GUI
